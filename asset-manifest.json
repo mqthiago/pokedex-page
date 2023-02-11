@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.51520854.css",
+    "main.js": "./static/js/main.a43229c1.js",
+    "static/js/787.7e0b23c5.chunk.js": "./static/js/787.7e0b23c5.chunk.js",
+    "static/media/International_Pokémon_logo.svg.jpg": "./static/media/International_Pokémon_logo.svg.6893b8c02338e8427310.jpg",
+    "index.html": "./index.html",
+    "main.51520854.css.map": "./static/css/main.51520854.css.map",
+    "main.a43229c1.js.map": "./static/js/main.a43229c1.js.map",
+    "787.7e0b23c5.chunk.js.map": "./static/js/787.7e0b23c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51520854.css",
+    "static/js/main.a43229c1.js"
+  ]
+}
